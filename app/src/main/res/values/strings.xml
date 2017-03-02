@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">八分音符</string>
+    <string name="prompt">提示!</string>
+    <string name="i_know">我知道了!</string>
+</resources>
